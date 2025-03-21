@@ -66,6 +66,8 @@ The analysis includes various financial metrics and indicators:
    ```
 3. Open and run `analysis.ipynb` in Jupyter Notebook
 
-## Note
+## Result
 
-This project is part of the Term Project (January 2025) for Financial Forensics course. The analysis focuses on understanding market behavior and predicting stock price movements using various financial metrics and machine learning techniques.
+<img width="976" alt="image" src="https://github.com/user-attachments/assets/415d264a-04c2-4e07-9505-5b54c0a57fe9" />
+
+
