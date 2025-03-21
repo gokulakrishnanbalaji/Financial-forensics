@@ -1,0 +1,21 @@
+metrics:
+  EPS: #(Earnings per share)
+    EPS latest quarter,
+    EPS preceding quarter
+  
+  NPM: #(Net Profit Margin)
+    NPM latest quarter,
+    NPM preceding quarter
+
+  YOY Quarterly Sales Growth: # (year over year growth of sales)
+
+  YOY Quarterly Profit Growth: # (year over year growth of profit)
+
+  Current Ratio: # (Current Assets / Current Liabilities)
+
+  Interest Coverage Ratio: # (EBIT (earnings before intersr and tax) / Interest Expense)
+                            # How easily a company can pay off its debt
+
+  Price to Sales (P/S): #compares the company’s market capitalization to its revenue
+                        # (Market Cap / Revenue)
+
